@@ -1,0 +1,5 @@
+#ESB #microservice #message_broker 
+An <font color="#c0504d">enterprise service bus (ESB)</font> is an **architectural pattern** sometimes utilized in [[service-oriented architecture (SOAs)]] implemented across enterprises.
+In an ESB, a <u>centralized software platform combines communication protocols and data formats into a “common language”</u> that all services and applications in the architecture can share. It might, for instance, translate the requests it receives from one protocol (such as XML) to another (such as JSON). ESBs transform their message payloads using an automated process. **The centralized software platform also handles other orchestration logic, such as connectivity, routing, and request processing.**
+
+ESB infrastructures are **complex**, and can be **challenging to integrate** and **expensive to maintain**. It’s **difficult to troubleshoot** them when problems occur in production environments, they’re **not easy to scale**, and updating is tedious.

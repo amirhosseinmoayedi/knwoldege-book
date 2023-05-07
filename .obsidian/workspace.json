@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "6d013d5ee86e8dec",
+    "type": "split",
+    "children": [
+      {
+        "id": "6274e31598fb2fe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a49220f92ebea1e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bca618bb1ae95185",
+    "type": "split",
+    "children": [
+      {
+        "id": "96a4d81cc8a7cf74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4431da88f8c113e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c751f73b4158b91b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "observ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbf3503ca444069e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6278de54aee317d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7fc45885c1cb6f4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d18cb76fe3d2d9d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ca874ea11a2c04f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f27f953c4a9a461",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Languages/GoLang/Generics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f09a705225cf3d57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Languages/GoLang/Generics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2037e16743e568d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b3ceb094646822c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Languages/GoLang/Generics.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "4431da88f8c113e8",
+  "lastOpenFiles": [
+    "Languages/GoLang/Contexts.md",
+    "Languages/GoLang/Go Tour Notes.md",
+    "Languages/GoLang/Notes.md",
+    "Languages/GoLang/IDflags.md",
+    "Jeager and OpenTelemetry/Obserablity.md",
+    "Languages/GoLang/Build.md",
+    "Languages/GoLang/Init function.md",
+    "Languages/GoLang/Generics.md",
+    "Languages/GoLang/Enums.md",
+    "Languages/GoLang/concurrency patterns.md",
+    "Languages/GoLang/Commands.md",
+    "Languages/GoLang/Get Programming With Go/Unit 7 goroutine-channels-mutex.md",
+    "Languages/GoLang/Get Programming With Go/Unit 6 pointer-nil-error handling.md",
+    "Languages/GoLang/Get Programming With Go/Unit 5 struct-interface.md",
+    "Programming Generall/OOP Notes.md",
+    "Languages/GoLang/Get Programming With Go/Unit 4 array-slice-map.md",
+    "Languages/GoLang/Get Programming With Go/Unit 3 functions-types-methodes.md",
+    "Languages/GoLang/Get Programming With Go/Unit 2 data types.md",
+    "Languages/GoLang/Get Programming With Go/Unit 1 basics.md",
+    "MonoRepo 1.md",
+    "MonoRepo and Bazel.md",
+    "MonoRepo.md",
+    "_resources/Pasted image 20230504213327.png",
+    "Pasted image 20230504213320.png",
+    "Obsidain Mark-Down Guid.md",
+    "Programming Generall/MakeFile.md",
+    "Data Bases/Postgres/Intermadiate/Postgres Intermediate 2.md",
+    "Data Bases/Postgres/Intermadiate/Postgres Intermediate 1.md",
+    "Data Bases/Postgres/Intermadiate/Postgres Intermediate 3.md~",
+    "Pasted image 20230502173801.png",
+    "_resources/Pasted image 20230502173917.png",
+    "_resources/Pasted image 20230417213818.png",
+    "_resources/Pasted image 20230417213612.png",
+    "_resources/Pasted image 20230415231458.png",
+    "_resources/Pasted image 20230415225637.png",
+    "_resources/Pasted image 20230415224426.png",
+    "Jeager and OpenTelemetry",
+    "_resources/Pasted image 20230415144219.png",
+    "Prometheus",
+    "_resources/Screenshot_2023-03-29-11-17-19-101_com.mxtech.videoplayer.pro.jpg.~tmp",
+    "_resources/Screenshot_2023-03-29-11-04-13-063_com.mxtech.videoplayer.pro.jpg.~tmp",
+    "Screenshot_2023-03-26-13-16-09-378_com.mxtech.videoplayer.pro.jpg.~tmp",
+    "kubernetes"
+  ]
+}

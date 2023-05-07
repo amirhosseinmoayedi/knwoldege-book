@@ -1,0 +1,8 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "tell me about postgres base on [[Postgres Intermediate 1]] \n "
+    }
+  ]
+]
